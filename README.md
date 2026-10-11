@@ -4,7 +4,7 @@
 
 I design tests, investigate defects and build automated checks to help teams understand release risks. My background in game production brings practical experience with requirements, priorities and delivery.
 
-**Open to remote junior QA opportunities**
+**Open to remote junior QA opportunities | EU Citizen**
 
 [Connect on LinkedIn](https://www.linkedin.com/in/the-victor-marino/)
 
