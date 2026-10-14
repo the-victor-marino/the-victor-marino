@@ -38,6 +38,8 @@ A Python slot-model project that turns testing into reproducible evidence:
 
 *Portfolio model with documented limitations; not a certified game or RNG audit.*
 
+🎮 [Explore the interactive Slot QA Lab](https://the-victor-marino.github.io/igaming-rtp-qa/)
+
 ## Testing toolkit
 
 | Area | Skills & tools |
