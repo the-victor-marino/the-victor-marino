@@ -12,19 +12,6 @@ I design tests, investigate defects and build automated checks to help teams und
 
 ## Featured QA projects
 
-### [GameGuard QA](https://github.com/the-victor-marino/gameguard-qa)
-
-A Python QA project focused on protecting player progress and detecting build regressions:
-
-- **Save integrity:** detect corrupted state, invalid currency and duplicate unique items.
-- **Update compatibility:** verify that v1 → v2 save migration preserves player progression.
-- **Performance checks:** compare modeled build telemetry against load-time, frame-time and memory budgets.
-- **Release evidence:** a CI PASS/FAIL quality gate with defect diagnostics, JUnit, coverage and build reports.
-
-**Stack:** Python · pytest · pytest-cov · GitHub Actions · JSON
-
-*Portfolio demo using deterministic performance fixtures.*
-
 ### [iGaming RTP QA Pipeline](https://github.com/the-victor-marino/igaming-rtp-qa)
 
 A Python slot-model project that turns testing into reproducible evidence:
@@ -39,6 +26,19 @@ A Python slot-model project that turns testing into reproducible evidence:
 *Portfolio model with documented limitations; not a certified game or RNG audit.*
 
 🎮 [Explore the interactive Slot QA Lab](https://the-victor-marino.github.io/igaming-rtp-qa/)
+
+### [GameGuard QA](https://github.com/the-victor-marino/gameguard-qa)
+
+A Python QA project focused on protecting player progress and detecting build regressions:
+
+- **Save integrity:** detect corrupted state, invalid currency and duplicate unique items.
+- **Update compatibility:** verify that v1 → v2 save migration preserves player progression.
+- **Performance checks:** compare modeled build telemetry against load-time, frame-time and memory budgets.
+- **Release evidence:** a CI PASS/FAIL quality gate with defect diagnostics, JUnit, coverage and build reports.
+
+**Stack:** Python · pytest · pytest-cov · GitHub Actions · JSON
+
+*Portfolio demo using deterministic performance fixtures.*
 
 ## Testing toolkit
 
